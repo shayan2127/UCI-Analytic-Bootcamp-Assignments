@@ -23,6 +23,7 @@ Sub VBA_Script_Easy():
     Dim Row As Integer
     Row = 2
 
+    ' Define the first row of the Summary Table
     Range("I1").Value = "Ticker"
     Range("J1").Value = "Yearly Change"
     Range("K1").Value = "Percent Change"
