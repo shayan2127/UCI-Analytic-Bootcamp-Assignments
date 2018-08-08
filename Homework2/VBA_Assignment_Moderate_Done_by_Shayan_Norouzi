@@ -79,7 +79,7 @@ Sub VBA_Script_Easy():
             ' Add one to the summary table row
             Row = Row + 1
 
-            ' Add one to the summary table row
+            ' Add one to the summary table counter
             n = i + 1
       
             ' Reset the total stock volume, yearly change and percent change
