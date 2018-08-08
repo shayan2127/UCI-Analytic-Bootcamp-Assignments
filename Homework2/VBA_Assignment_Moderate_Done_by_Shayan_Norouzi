@@ -47,7 +47,7 @@ Sub VBA_Script_Easy():
             ' Add to the yearly change
             Yearly_Change = Cells(i, 6).Value - Cells(n, 3).Value
 
-                        ' To color the Yearly change interior depend on its value
+            ' To color the Yearly change interior depend on its value
             If Yearly_Change >= 0 Then
 
                 Range("J" & Row).Interior.ColorIndex = 4
