@@ -1,1 +1,1 @@
-# UCI-Analytic-Bootcamp-Assignemnt
+# UCI-Analytic-Bootcamp-Assignments
