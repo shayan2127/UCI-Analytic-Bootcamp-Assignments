@@ -12,6 +12,8 @@ submit.on("click", function() {
     // Prevent the page from refreshing
     d3.event.preventDefault();
 
+    tbody.html("")
+
     // Select the input element and get the raw HTML node
     var inputDate = d3.select("#datetime");
 
